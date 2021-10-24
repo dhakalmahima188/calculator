@@ -10,20 +10,15 @@
     font-family: 'Zen Kurenaido', sans-serif;
     box-shadow: 10px 10px 15px #aaaaaa;
     /* spread spread blur */
- 
 }
 table{
-    margin:auto;
- 
- 
+    margin:auto; 
 }
-input{
-   
+input{   
     font-size:25px;
     border-width: 3px ;
     width: 205px;
-    height:30px;
-    
+    height:30px;   
 }
 button{
     color:white;
