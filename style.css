@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
 .container{
+    border-radius: 20px;
+    margin:auto;
     margin-top: 30px;
     text-align:center;
-  
+    background-color: powderblue;
+    width: 230px;
+    font-family: 'Zen Kurenaido', sans-serif;
+    box-shadow: 10px 10px 15px #aaaaaa;
+    /* spread spread blur */
  
 }
 table{
@@ -10,15 +18,19 @@ table{
  
 }
 input{
+   
+    font-size:25px;
     border-width: 3px ;
     width: 205px;
     height:30px;
+    
 }
 button{
     color:white;
     font-size: 30px;
     width:50px;
     background-color:rgb(50, 47, 255);
+    border-radius: 20%;
 }
 button:hover{
     background-color: khaki;
